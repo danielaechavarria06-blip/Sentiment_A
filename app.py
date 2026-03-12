@@ -1,4 +1,5 @@
 from textblob import TextBlob
+from streamlit_lottie import st_lottie
 import pandas as pd
 import streamlit as st
 from PIL import Image
